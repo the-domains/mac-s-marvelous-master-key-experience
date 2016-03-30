@@ -1,7 +1,7 @@
 name: "Mac's Marvelous Master Key Experience"
 favicon: null
-layout_spectrum: 0.8845256865024567
-typography_spectrum: 0.15815706853754818
+layout_spectrum: 0.50042
+typography_spectrum: 0.25203
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.5452352969441563
+  brandStrength: 0.75
   lightness: 0.48723389278165996
   saturation: 0.8779424144886434
   rhythmicContrast: 0.20630121254362166
